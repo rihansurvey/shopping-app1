@@ -1,1 +1,1 @@
-Welcome to Git Taining
+Welcome to Git Taining, Git is a open source
