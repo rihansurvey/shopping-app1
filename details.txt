@@ -1,0 +1,2 @@
+Satish and I are learning Git
+Git is part of DevOps training
